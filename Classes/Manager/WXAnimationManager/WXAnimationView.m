@@ -15,7 +15,7 @@
 #import "LOTLayerGroup.h"
 #import "LOTLayer.h"
 #import "WXLottieImageCache.h"
-#import <WXToolKit/WXToolKitMacro.h>
+#import "WXCommonMacro.h"
 
 #define WXAV_CoverViewAlpha 0.6
 

@@ -9,6 +9,7 @@
 #import "LoadingView.h"
 #import <lottie-ios/Lottie/Lottie.h>
 #import <Masonry/Masonry.h>
+#import "WXCommonMacro.h"
 #import <WXToolKit/WXToolKitMacro.h>
 
 static Class<LoadingViewDataSource> DataSource = nil;

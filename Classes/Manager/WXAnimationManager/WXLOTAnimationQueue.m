@@ -6,7 +6,7 @@
 //
 
 #import "WXLOTAnimationQueue.h"
-#import <WXToolKit/WXToolKitMacro.h>
+#import "WXCommonMacro.h"
 
 @interface WXLOTAnimationQueue()
 @property (nonatomic, strong, readwrite) WXLOTAnimationQueueConfig *playingConfig;

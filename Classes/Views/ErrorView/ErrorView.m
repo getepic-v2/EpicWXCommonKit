@@ -10,6 +10,7 @@
 #import <WXToolKit/WXToolKit.h>
 #import <WXToolKit/WXToolKitMacro.h>
 #import <Masonry/Masonry.h>
+#import "WXCommonMacro.h"
 
 static Class<ErrorViewDataSource> DataSource = nil;
 

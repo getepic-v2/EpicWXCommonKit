@@ -11,7 +11,7 @@
 #import "LOTLayer.h"
 #import "LOTAsset.h"
 #import "LOTAssetGroup.h"
-#import <WXToolKit/WXToolKitMacro.h>
+#import "WXCommonMacro.h"
 
 static NSString * const kWXLottieImageCacheRootDir = @"WXLottieImageCacheRootDir";
 

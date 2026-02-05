@@ -16,5 +16,6 @@
 #import <EpicWXCommonKit/AZAppHostConfig.h>
 #import <EpicWXCommonKit/LoadingView.h>
 #import <EpicWXCommonKit/ErrorView.h>
+#import <EpicWXCommonKit/WXCommonMacro.h>
 
 #endif /* EpicWXCommonKit_h */
