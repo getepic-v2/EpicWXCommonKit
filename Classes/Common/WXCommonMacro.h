@@ -10,4 +10,6 @@
 
 #define WeakObj(obj)                autoreleasepool{} __weak __typeof(obj) obj##Weak = obj;
 
+#define kAppScheme @"xesscienceexercise"
+
 #endif /* WXCommonMacro_h */

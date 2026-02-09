@@ -14,8 +14,10 @@ Pod::Spec.new do |s|
   s.resources = 'Resources/**/*',
                 'Assets/**/*'
   
-  s.dependency 'WXToolKit'
   s.dependency 'YYKit'
+  s.dependency 'WXToolKit'
+  s.dependency 'TALPush'
+  s.dependency 'TALMsgSdk'
   s.dependency 'Masonry'
   s.dependency 'SDWebImage'
   s.dependency 'WXPreload'

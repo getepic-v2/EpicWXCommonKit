@@ -17,5 +17,7 @@
 #import <EpicWXCommonKit/LoadingView.h>
 #import <EpicWXCommonKit/ErrorView.h>
 #import <EpicWXCommonKit/WXCommonMacro.h>
+#import <EpicWXCommonKit/AppInfo.h>
+#import <EpicWXCommonKit/EpicPushManager.h>
 
 #endif /* EpicWXCommonKit_h */
